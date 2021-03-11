@@ -58,7 +58,7 @@
 <a href="mpage">mPage</a>&nbsp;
 <a href="bpage">bPage</a>&nbsp;
 <br>
-<div id="resultArea"">
+<div id="resultArea">
 </div>
 </body>
 </html>
